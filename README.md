@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<div>
-  <h3>📈 My stats: align = "left"</h3>
+<div align = "left">
+  <h3>📈 My stats:</h3>
     <div align = "center">
       <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "200" heigth = "200"/>
       <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "200" heigth = "200"/>
