@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <div>
   <h3>🔨 Lenguajes and tools:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = "40" heigth = "40"/>
 </div>
