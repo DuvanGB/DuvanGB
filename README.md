@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🫶 I will try to leave the codes as organized as possible so that they can be interpreted and later implemented in their own projects.
 - 🌱 I am currently improving my skills in html and javascript
 
-<div>
+<div align = "left">
   <h3>🔨 Lenguajes and tools:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = "40" heigth = "40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width = "40" heigth = "40"/>
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 ---
 <div>
   <h3>📈 My stats:</h3>
-    <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "200" heigth = "200"/>
-    <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "200" heigth = "200"/>
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "200" heigth = "200"/>
+    <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "200" heigth = "200" align = "center"/>
+    <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "200" heigth = "200" align = "center"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "200" heigth = "200" align = "center"/>
 </div>
 
 
