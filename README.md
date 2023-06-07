@@ -39,6 +39,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40" heigth = "40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "40" heigth = "40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "40" heigth = "40"/>
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width = "40" heigth = "40"/> 
-    <img src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" width = "40" heigth = "40"/>   
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width = "30" heigth = "30"/> 
+    <img src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" width = "30" heigth = "30"/>   
 </div>
