@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 <div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width = "200" />
   <h1 align = "center"> Hi 😄, Welcome to my profile !!!</h1>
-    <h3 align = "center"> An passionate about programming and new technologies from Colombia. I                             like to learn and get new tools that help me define strategies in my                             field.
+    <h3 align = "center"> An passionate about programming and new technologies from Colombia. I like to learn and get new tools that help me define strategies in my field.
     </h3>
 </div>
+
+
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
