@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 ---
 <div>
   <h3>📈 My stats:</h3>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuvanGB&theme=swift)](https://git.io/streak-stats)
 </div>
