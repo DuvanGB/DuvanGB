@@ -45,9 +45,11 @@ Here are some ideas to get you started:
 
 ---
 ### 📈 My stats:
+<div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuvanGB&theme=yellowdark&border_radius=5.5)](https://git.io/streak-stats)
   ![DuvanGB GitHub stats](https://github-readme-stats.vercel.app/api?username=DuvanGB&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" />
+</div>
 
 
 
