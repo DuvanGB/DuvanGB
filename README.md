@@ -42,3 +42,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width = "35" heigth = "35"/> 
     <img src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" width = "35" heigth = "40"/>   
 </div>
+
+---
+<div>
+  <h3>📈 My stats:</h3>
+</div>
