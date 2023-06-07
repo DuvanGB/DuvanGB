@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <div>
   <h3>🔨 Lenguajes and tools:</h3>
-    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
