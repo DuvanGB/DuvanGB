@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   <h3>📈 My stats:</h3>
     <div align = "center">
       <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "400" heigth = "400"/>
-      <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "350" heigth = "350"/>
-      <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "200" heigth = "200"/>
+      <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "380" heigth = "380"/>
+      <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "300" heigth = "300"/>
     </div>
 </div>
 
