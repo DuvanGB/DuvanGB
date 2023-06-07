@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <div align = "left">
   <h3>📈 My stats:</h3>
     <div align = "center">
-      <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "400" heigth = "400"/>
-      <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "380" heigth = "380"/>
-      <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "250" heigth = "250"/>
+      <img src= "http://github-readme-streak-stats.herokuapp.com?user=DuvanGB&theme=yellowdark&border_radius=5.5" width = "400" heigth = "400"/>
+      <img src= "https://github-readme-stats.vercel.app/api?username=DuvanGB&show_icons=true&theme=dark" width = "380" heigth = "380"/>
+      <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DuvanGB&layout=donut-vertical" width = "250" heigth = "250"/>
     </div>
 </div>
 
