@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 ---
 ### 📈 My stats:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuvanGB&theme=yellowdark&border_radius=5.5)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
