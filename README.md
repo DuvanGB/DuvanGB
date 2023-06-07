@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ---
 ### 💪 About Me
-- I am constantly making projects to upload
-- I will try to leave the codes as organized as possible so that they can be interpreted and later implemented in their own projects.
+- 🚩 I am constantly making projects to upload
+- 🫶 I will try to leave the codes as organized as possible so that they can be interpreted and later implemented in their own projects.
 
