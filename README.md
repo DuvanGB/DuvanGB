@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### 📈 My stats:
 <div>
-  <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "80" heigth = "80"/>
-  <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "80" heigth = "80"/>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "80" heigth = "80"/>
+  <h3>📈 My stats:</h3>
+    <img src= "http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=yellowdark&border_radius=5.5" width = "200" heigth = "200"/>
+    <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" width = "200" heigth = "200"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width = "200" heigth = "200"/>
 </div>
 
 
