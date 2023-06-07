@@ -19,7 +19,11 @@ Here are some ideas to get you started:
     </h3>
 </div>
 
+<div>
+  <a href = "https://www.linkedin.com/in/duvan-galvis-a45308260/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
+
+</div>
 
 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
